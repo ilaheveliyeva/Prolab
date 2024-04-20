@@ -70,10 +70,8 @@ img {
     text-align: center;
 }
 
-.left-features p {
-
+a {
+    color: red;
 }
 
-.feature-img {
-    display: flex;
-}
+
